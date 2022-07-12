@@ -24,4 +24,4 @@ Provided is also a unitypackage with what should be all needed files to run and 
 Any models, materials or textures are not made by me.
 
 The previous version of this project (which resulted in my bacherlor's degree in game programming)
- can be found in this repository.
+ can be found in [this repository](https://github.com/Zenzyde/bachelors-degree-project).
